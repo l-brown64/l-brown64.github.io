@@ -1,7 +1,7 @@
 <--<div> align ="center">
     <h1>Welcome to my site</h1>
-    <img src ="cartoon_450.jpg" alt = "man saying DCB to Seven Channel EBCEDIC, two people listening"
-width ="350">
+    <img src ="cartoon_300.jpg" alt = "man saying DCB to Seven Channel EBCEDIC, two people listening"
+width ="300">
      </div>
   <p><h2>About the cartoon</h2> Some years back, 1973 maybe, at a meeting, one of New York State Department of Transportation computer specialists said "BCD to Seven Channel EBCEDIC". I heard it as "Ipsidic." It was made regarding a program that a colleague of mine and I were interested in having distributed generally within the Department. Clearly, I was impressed by the statement because the language of it stuck with me over these many years. To this day I do not know if it was a solution to some problem we were having or the indication of a problem we would encounter. Extended Binary Coded Decimal Interchange Code (EBCEDIC) is used mostly in IBM mainframe work.  It is similar to ASCII but not identical.  BCD is Binary Coded Decimal. </p 
 ##Now bout the site.  Other contents will include two written articles and three tables aiding in the conversion of numbers between binary, octal, decimal, and hexadecimal.
