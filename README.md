@@ -1,4 +1,4 @@
-<--<div> align ="center">
+<div> align ="center">
     <h1>Welcome to my site</h1>
     <img src ="Cartoon_300.jpg" alt = "man saying DCB to Seven Channel EBCEDIC, two people listening"
 width ="300">
